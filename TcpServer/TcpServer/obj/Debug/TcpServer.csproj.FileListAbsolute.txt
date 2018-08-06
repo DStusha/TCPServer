@@ -1,0 +1,11 @@
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\СП\TcpServer\TcpServer\bin\Debug\TcpServer.exe.config
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\СП\TcpServer\TcpServer\bin\Debug\TcpServer.exe
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\СП\TcpServer\TcpServer\bin\Debug\TcpServer.pdb
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\СП\TcpServer\TcpServer\obj\Debug\TcpServer.exe
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\СП\TcpServer\TcpServer\obj\Debug\TcpServer.pdb
+C:\Users\123\Desktop\lab3\TcpServer\TcpServer\bin\Debug\TcpServer.exe.config
+C:\Users\123\Desktop\lab3\TcpServer\TcpServer\bin\Debug\TcpServer.exe
+C:\Users\123\Desktop\lab3\TcpServer\TcpServer\bin\Debug\TcpServer.pdb
+C:\Users\123\Desktop\lab3\TcpServer\TcpServer\obj\Debug\TcpServer.exe
+C:\Users\123\Desktop\lab3\TcpServer\TcpServer\obj\Debug\TcpServer.pdb
+C:\Users\123\Desktop\lab3\TcpServer\TcpServer\obj\Debug\TcpServer.csprojResolveAssemblyReference.cache

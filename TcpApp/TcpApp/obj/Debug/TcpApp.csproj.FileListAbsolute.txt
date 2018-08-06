@@ -1,0 +1,18 @@
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\СП\TcpApp\TcpApp\bin\Debug\TcpApp.exe.config
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\СП\TcpApp\TcpApp\bin\Debug\TcpApp.exe
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\СП\TcpApp\TcpApp\bin\Debug\TcpApp.pdb
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\СП\TcpApp\TcpApp\obj\Debug\TcpApp.exe
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\СП\TcpApp\TcpApp\obj\Debug\TcpApp.pdb
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\СП\TcpApp\TcpApp\obj\Debug\TcpApp.csprojResolveAssemblyReference.cache
+C:\Users\123\Desktop\lab3\TcpApp\TcpApp\bin\Debug\TcpApp.exe.config
+C:\Users\123\Desktop\lab3\TcpApp\TcpApp\bin\Debug\TcpApp.exe
+C:\Users\123\Desktop\lab3\TcpApp\TcpApp\bin\Debug\TcpApp.pdb
+C:\Users\123\Desktop\lab3\TcpApp\TcpApp\obj\Debug\TcpApp.exe
+C:\Users\123\Desktop\lab3\TcpApp\TcpApp\obj\Debug\TcpApp.pdb
+C:\Users\123\Desktop\lab3\TcpApp\TcpApp\obj\Debug\TcpApp.csprojResolveAssemblyReference.cache
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\СП\lab3\TcpApp\TcpApp\bin\Debug\TcpApp.exe.config
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\СП\lab3\TcpApp\TcpApp\bin\Debug\TcpApp.exe
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\СП\lab3\TcpApp\TcpApp\bin\Debug\TcpApp.pdb
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\СП\lab3\TcpApp\TcpApp\obj\Debug\TcpApp.csprojResolveAssemblyReference.cache
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\СП\lab3\TcpApp\TcpApp\obj\Debug\TcpApp.exe
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\СП\lab3\TcpApp\TcpApp\obj\Debug\TcpApp.pdb
